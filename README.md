@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/hub/main/.github/assets/thumbnail.png" alt="hub" width="100%">
+</p>
+
 # Hub
 
 [![🧪 E2E Tests](https://github.com/harpertoken/hub/actions/workflows/e2e.yml/badge.svg)](https://github.com/harpertoken/hub/actions/workflows/e2e.yml)
