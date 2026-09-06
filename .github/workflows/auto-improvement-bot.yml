@@ -245,7 +245,7 @@ jobs:
           - Resolved ${{ steps.security-check.outputs.vulnerability_count }} security vulnerabilities
           - Updated packages to latest secure versions
 
-          Signed-off-by: @harpertoken
+          Signed-off-by: @bniladridas
         title: 'Security: Fix ${{ steps.security-check.outputs.vulnerability_count }} vulnerabilities'
         body: |
           ## SecurityFix
@@ -306,7 +306,7 @@ jobs:
           - Resolved potential security issues
           - Improved build performance
 
-          Signed-off-by: @harpertoken
+          Signed-off-by: @bniladridas
         title: 'Dependencies: Update ${{ steps.outdated-check.outputs.outdated_count }} packages'
         body: |
           ## DependencyUpdates
