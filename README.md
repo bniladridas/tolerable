@@ -4,7 +4,7 @@
 
 # Hub
 
-[![🧪 E2E Tests](https://github.com/harpertoken/hub/actions/workflows/e2e.yml/badge.svg)](https://github.com/harpertoken/hub/actions/workflows/e2e.yml)
+[![🧪 E2E Tests](https://github.com/coccinella-labs/collab-hub/actions/workflows/e2e.yml/badge.svg)](https://github.com/coccinella-labs/collab-hub/actions/workflows/e2e.yml)
 
 A platform for content creation and learning.
 
@@ -22,8 +22,8 @@ A platform for content creation and learning.
 Requires Node.js 18+ and npm or pnpm.
 
 ```bash
-git clone https://github.com/harpertoken/hub.git
-cd hub
+git clone https://github.com/coccinella-labs/collab-hub.git
+cd collab-hub
 npm install
 cp .env.example .env
 # edit .env with your keys
