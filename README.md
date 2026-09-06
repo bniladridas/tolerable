@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/collab-hub/main/.github/assets/thumbnail.png" alt="collab-hub" width="100%">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/coccinella-labs/collab-hub/main/.github/assets/thumbnail.png" alt="collab-hub" width="100%">
 </p>
 
