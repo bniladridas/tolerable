@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/hub/main/.github/assets/thumbnail.png" alt="hub" width="100%">
+  <img src="https://raw.githubusercontent.com/coccinella-labs/collab-hub/main/.github/assets/thumbnail.png" alt="collab-hub" width="100%">
 </p>
 
 # Hub
